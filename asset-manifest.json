@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Traveling-Diary/static/css/main.ee971f58.css",
-    "main.js": "/Traveling-Diary/static/js/main.e9530758.js",
+    "main.css": "/Traveling-Diary/static/css/main.9a5f033f.css",
+    "main.js": "/Traveling-Diary/static/js/main.c3287e6c.js",
     "static/js/787.3bc1720c.chunk.js": "/Traveling-Diary/static/js/787.3bc1720c.chunk.js",
     "static/media/logo.svg": "/Traveling-Diary/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Traveling-Diary/index.html",
-    "main.ee971f58.css.map": "/Traveling-Diary/static/css/main.ee971f58.css.map",
-    "main.e9530758.js.map": "/Traveling-Diary/static/js/main.e9530758.js.map",
+    "main.9a5f033f.css.map": "/Traveling-Diary/static/css/main.9a5f033f.css.map",
+    "main.c3287e6c.js.map": "/Traveling-Diary/static/js/main.c3287e6c.js.map",
     "787.3bc1720c.chunk.js.map": "/Traveling-Diary/static/js/787.3bc1720c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ee971f58.css",
-    "static/js/main.e9530758.js"
+    "static/css/main.9a5f033f.css",
+    "static/js/main.c3287e6c.js"
   ]
 }
